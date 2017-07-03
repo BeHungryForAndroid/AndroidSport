@@ -16,10 +16,7 @@ import com.sport.widget.TopView;
 
 import butterknife.BindView;
 
-/**
- * Created by KK on 16/5/27.
- * 通用webview页面 加载网页
- */
+
 public class WebViewAct extends BaseAct {
     @BindView(R.id.mTopView)
     TopView mTopView;

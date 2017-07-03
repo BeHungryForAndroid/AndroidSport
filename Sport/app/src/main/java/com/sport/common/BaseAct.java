@@ -7,9 +7,7 @@ import android.widget.Toast;
 
 import butterknife.ButterKnife;
 
-/**
- * Created by KK on 16/5/24.
- */
+
 public abstract class BaseAct extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {

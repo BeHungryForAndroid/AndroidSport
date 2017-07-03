@@ -30,9 +30,7 @@ import cn.bmob.v3.BmobQuery;
 import cn.bmob.v3.listener.FindListener;
 import cn.bmob.v3.listener.UpdateListener;
 
-/**
- * Created by KK on 16/6/12.
- */
+
 public class CollectAct extends BaseAct {
     @BindView(R.id.mTopView)
     TopView mTopView;

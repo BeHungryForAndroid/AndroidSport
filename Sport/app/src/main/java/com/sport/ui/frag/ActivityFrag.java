@@ -35,10 +35,6 @@ import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
 
-/**
- * Created by KK on 16/5/26.
- * 商铺页面
- */
 public class ActivityFrag extends BaseFrag {
     @BindView(R.id.mRecycler)
     RecyclerView mRecycler;

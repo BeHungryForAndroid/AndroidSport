@@ -13,9 +13,7 @@ import butterknife.OnClick;
 import cn.bmob.v3.BmobUser;
 import cn.bmob.v3.listener.UpdateListener;
 
-/**
- * Created by KK on 16/3/29.
- */
+
 public class ModifyPwdAct extends BaseAct {
     @BindView(R.id.mTopView)
     TopView mTopView;

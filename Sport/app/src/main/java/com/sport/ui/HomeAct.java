@@ -16,9 +16,7 @@ import com.sport.ui.frag.TeamFrag;
 
 import butterknife.OnClick;
 
-/**
- * Created by KK on 16/5/26.
- */
+
 public class HomeAct extends BaseAct {
     public static final String FRAGMENT_TAG = "fragment_tag";
     private FragmentManager fm;

@@ -36,10 +36,7 @@ import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
 
-/**
- * Created by KK on 16/5/26.
- * 新闻页面
- */
+
 public class NewsFrag extends BaseFrag {
     @BindView(R.id.mTopView)
     TopView mTopView;

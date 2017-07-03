@@ -13,10 +13,7 @@ import butterknife.BindView;
 import butterknife.OnClick;
 import cn.bmob.v3.BmobUser;
 
-/**
- * Created by KK on 16/3/30.
- * 设置页面
- */
+
 public class SettingAct extends BaseAct implements View.OnClickListener {
     @BindView(R.id.mTopView)
     TopView mTopView;

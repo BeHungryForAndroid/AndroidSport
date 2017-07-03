@@ -22,10 +22,7 @@ import java.util.List;
 
 import butterknife.BindView;
 
-/**
- * Created by KK on 16/5/26.
- * 寻场地图页面
- */
+
 public class MapFrag extends BaseFrag implements PoiSearch.OnPoiSearchListener {
 
     @BindView(R.id.mMap)

@@ -35,9 +35,6 @@ import cn.bmob.v3.datatype.BmobFile;
 import cn.bmob.v3.listener.UpdateListener;
 import cn.bmob.v3.listener.UploadFileListener;
 
-/**
- * Created by KK on 16/5/26.
- */
 public class MyFrag extends BaseFrag {
     @BindView(R.id.mTopView)
     TopView mTopView;

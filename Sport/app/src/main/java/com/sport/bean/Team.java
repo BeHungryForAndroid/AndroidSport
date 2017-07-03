@@ -4,9 +4,7 @@ import java.util.List;
 
 import cn.bmob.v3.BmobObject;
 
-/**
- * Created by KK on 16/6/6.
- */
+
 public class Team extends BmobObject {
     private String nick;
     private String title;

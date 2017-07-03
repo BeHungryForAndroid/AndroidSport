@@ -25,10 +25,7 @@ import cn.bmob.v3.listener.ResetPasswordByCodeListener;
 import cn.bmob.v3.listener.SaveListener;
 
 
-/**
- * Created by KK on 16/3/29.
- * 注册和忘记密码页面
- */
+
 public class RegisterAct extends BaseAct implements View.OnClickListener {
     @BindView(R.id.mTopView)
     TopView mTopView;

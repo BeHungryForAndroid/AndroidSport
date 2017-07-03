@@ -1,8 +1,6 @@
 package com.sport.event;
 
-/**
- * Created by KK on 16/6/2.
- */
+
 public class PlaceEvent {
     private String type;
     private String city;

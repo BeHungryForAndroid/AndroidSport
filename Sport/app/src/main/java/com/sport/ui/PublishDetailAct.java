@@ -31,7 +31,6 @@ import cn.bmob.v3.BmobUser;
 import cn.bmob.v3.listener.DeleteListener;
 import cn.bmob.v3.listener.FindListener;
 
-/**
  * Created by KK on 16/6/6.
  */
 public class PublishDetailAct extends BaseAct {

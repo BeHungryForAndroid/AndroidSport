@@ -2,9 +2,7 @@ package com.sport.bean;
 
 import java.io.Serializable;
 
-/**
- * Created by KK on 16/6/6.
- */
+
 public class Comment implements Serializable {
     private String headImg;
     private String nick;

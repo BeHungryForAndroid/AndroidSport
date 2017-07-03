@@ -6,9 +6,7 @@ import com.tencent.bugly.crashreport.CrashReport;
 
 import cn.bmob.v3.Bmob;
 
-/**
- * Created by KK on 16/5/6.
- */
+
 public class App extends Application {
     private static App app;
     @Override

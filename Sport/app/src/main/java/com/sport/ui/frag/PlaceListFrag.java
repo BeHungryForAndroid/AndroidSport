@@ -40,12 +40,6 @@ import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
 
-/**
- * Created by KK on 16/5/31.
- * 场地列表信息(注:此处列表现实用的ListView,新闻列表用的是RecyclerView)
- * ListView 出现比较早大部分项目中也还在应用所以给你写了一个
- * RecyclerView 最近2年出来的
- */
 public class PlaceListFrag extends BaseFrag {
 
     @BindView(R.id.mList)

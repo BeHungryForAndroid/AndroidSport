@@ -11,9 +11,7 @@ import android.widget.TextView;
 import com.sport.R;
 
 
-/**
- * Created by KK on 16/3/30.
- */
+
 public class UploadDialog implements View.OnClickListener {
     private AlertDialog builder;
     private Context context;

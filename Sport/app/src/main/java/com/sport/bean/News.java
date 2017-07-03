@@ -2,9 +2,7 @@ package com.sport.bean;
 
 import java.util.List;
 
-/**
- * Created by KK on 16/5/26.
- */
+
 public class News{
 
     /**

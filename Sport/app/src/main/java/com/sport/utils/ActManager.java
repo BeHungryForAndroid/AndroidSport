@@ -5,10 +5,7 @@ import android.content.Context;
 
 import java.util.Stack;
 
-/**
- * 自定义Activity堆栈管理
- *
- */
+
 public class ActManager {
     private static Stack<Activity> mActivityStack;
     private static ActManager mInstance;

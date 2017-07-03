@@ -21,9 +21,7 @@ import butterknife.OnClick;
 import cn.bmob.v3.BmobUser;
 import cn.bmob.v3.listener.SaveListener;
 
-/**
- * Created by KK on 16/6/6.
- */
+
 public class PublishAct extends BaseAct {
 
     @BindView(R.id.mTopView)

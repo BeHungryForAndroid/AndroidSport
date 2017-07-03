@@ -3,9 +3,7 @@ package com.sport.bean;
 import java.io.Serializable;
 import java.util.List;
 
-/**
- * Created by KK on 16/6/8.
- */
+
 public class Shop implements Serializable{
 
     /**

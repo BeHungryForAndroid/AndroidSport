@@ -15,9 +15,6 @@ import com.sport.widget.TopView;
 import butterknife.BindView;
 import cn.bmob.v3.listener.SaveListener;
 
-/**
- * Created by KK on 16/3/28.
- */
 public class LoginAct extends BaseAct {
     @BindView(R.id.mTopView)
     TopView mTopView;

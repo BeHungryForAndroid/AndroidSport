@@ -10,9 +10,6 @@ import android.widget.Toast;
 
 import butterknife.ButterKnife;
 
-/**
- * Created by KK on 16/5/26.
- */
 public abstract class BaseFrag extends Fragment {
     public static final int SELECT_CITY=100;
     private View view;

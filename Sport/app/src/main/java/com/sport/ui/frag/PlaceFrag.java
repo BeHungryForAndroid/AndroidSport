@@ -33,9 +33,7 @@ import java.util.List;
 import butterknife.BindView;
 import butterknife.OnClick;
 
-/**
- * Created by KK on 16/5/26.
- */
+
 public class PlaceFrag extends BaseFrag {
 
     @BindView(R.id.mTab)
